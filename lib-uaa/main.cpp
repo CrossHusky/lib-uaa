@@ -2,7 +2,19 @@
 
 using namespace std;
 
-int main(int argc, char **argv)
+// Estructuras
+struct libro
+{
+    string titulo;
+    string autor;
+    string editorial;
+    string codigo;
+    string id;
+    float precio;
+    float costo;
+};
+
+int main(void)
 {
     cout << "Hello World" << endl;
     return 0;
