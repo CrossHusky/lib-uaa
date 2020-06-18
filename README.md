@@ -9,5 +9,5 @@ Sistema de gestión de inventarios y ventas en lenguaje C/C++
  - Alta de artículos
  - Baja de artículos
  - Compra y Venta de artículos
- - Búsqueda y presentación de artículos
+ - Búsqueda y catálogo de artículos
 ```
