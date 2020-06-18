@@ -1,5 +1,5 @@
-# Librería
+# GIV
 
-Proyecto de Programación 1
+Proyecto de Programación
 
-Sistema de gestión de inventarios en lenguaje C/C++
+Sistema de gestión de inventarios y ventas en lenguaje C/C++
