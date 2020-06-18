@@ -11,7 +11,8 @@ Funcionalidad:
  > Compra y Venta de artículos
  > Búsqueda y presentación de artículos
 
-´´´#include <iostream>
+´´´c++
+#include <iostream>
  
  using namespace std;
  
