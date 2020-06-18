@@ -11,7 +11,7 @@ Funcionalidad:
  > Compra y Venta de artículos
  > Búsqueda y presentación de artículos
 
-   #include <iostream>
+´´´#include <iostream>
  
  using namespace std;
  
@@ -20,4 +20,4 @@ Funcionalidad:
  cout << "Hello, world!" << ednl;
  
  return 0;
-    }
+    }´´´
